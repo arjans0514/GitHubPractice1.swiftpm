@@ -6,9 +6,10 @@ struct ContentView: View {
         Text("Arjan")
         
         Button("Press Me") {
-            
+        }
         Button("Click me") {
         }
-        
+        Button("hit me") {
     }
+}
 }
