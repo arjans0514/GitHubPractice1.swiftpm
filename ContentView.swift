@@ -7,6 +7,8 @@ struct ContentView: View {
         
         Button("Press Me") {
             
+        Button("Click me") {
         }
+        
     }
 }
