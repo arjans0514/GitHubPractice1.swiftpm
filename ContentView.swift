@@ -17,5 +17,10 @@ struct ContentView: View {
         }
             
         }
+        Button("Click me") {
+        }
+        Button("hit me") {
     }
+}
+}
 
